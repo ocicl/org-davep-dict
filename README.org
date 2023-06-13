@@ -1,0 +1,10 @@
+* org-davep-dict
+
+RFC2229 client for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/davep/org-davep-dict.git   |
+| commit  | 87d00d8  |
+| systems | org-davep-dict |
+|---------+-------------------------------------------|
+
