@@ -8,4 +8,4 @@ RFC2229 client for Common Lisp
 | systems | org-davep-dict |
 |---------+-------------------------------------------|
 
- 
+  
